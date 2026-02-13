@@ -42,7 +42,7 @@ export default function Home() {
           <source src="/petals.mp4" type="video/mp4" />
         </video>
         <img
-          src="eminem.png"
+          src="/eminem.png"
           alt="Eminem throwing flowers"
           className="w-96 md:w-[32rem] rounded-2xl mb-10 relative z-10"
         />
